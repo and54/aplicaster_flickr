@@ -1,4 +1,4 @@
-# Aplicaster Flicker
+# Applicaster Flicker
 
 ## Instructions ##
 
@@ -8,12 +8,12 @@ It is recomended to run in **VS Code** and have instaled **Git** as version cont
 write in command line
 
 ``` 
-git clone https://github.com/and54/aplicaster_flickr.git
+git clone https://github.com/and54/applicaster_flickr.git
 ``` 
 
 2. Open folder and install dependencies
 ``` 
-cd aplicaster_flickr
+cd applicaster_flickr
 npm i
 ```
 
