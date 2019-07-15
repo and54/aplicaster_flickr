@@ -7,25 +7,25 @@ It is recomended to run in **VS Code** and have instaled **Git** as version cont
 1. Clone repository
 write in command line
 
-´´´
+Â´Â´Â´
 git clone https://github.com/and54/aplicaster_flickr.git
-´´´
+Â´Â´Â´
 
 2. Open folder and install dependencies
-´´´
+Â´Â´Â´
 cd aplicaster_flickr
 npm i
-´´´
+Â´Â´Â´
 
 3. Run app in development mode
-´´´
+Â´Â´Â´
 npm start
-´´´
+Â´Â´Â´
 
 Optional. create build
-´´´
+Â´Â´Â´
 npm build
-´´´
+Â´Â´Â´
 
 Created by
 *Andres Munoz*
