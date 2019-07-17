@@ -3,11 +3,11 @@ import Grid from '@material-ui/core/Grid';
 import FlickrImage from './FlickrImage';
 import './Dashboard.css';
 
-const time = 5; // value in seconds
-const search = 'animals'; // key word to do the search
-
 export default class Dashboard extends Component {
-  
+
+  time = 5; // value in seconds
+  search = 'animals'; // key word to do the search
+
   render = () => (
     <div className="root">
       <Grid 
@@ -18,7 +18,7 @@ export default class Dashboard extends Component {
         justify="center"
         className="grid"
       >
-        <FlickrImage time={ time } search={ search } />
+        <FlickrImage time={ this.time } search={ this.search } />
       </Grid>
     </div>
   );
