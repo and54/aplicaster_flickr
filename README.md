@@ -33,9 +33,7 @@ yarn build
 ```
 
 Note. the build app is in the branch **gh-pages**
-```
-[https://github.com/and54/applicaster_flickr/tree/gh-pages](./tree/gh-pages)
-```
+https://github.com/and54/applicaster_flickr/tree/gh-pages
 
 Created by
 Andres Munoz
